@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BootApp</string>
+    <string name="no_boot">No boots detected</string>
+    <string name="one_boot">The boot was detected with the timestamp =%1$s.</string>
+    <string name="multi_boot">Last boots time delta =%1$s.</string>
+</resources>
